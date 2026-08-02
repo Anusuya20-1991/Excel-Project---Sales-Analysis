@@ -1,2 +1,2 @@
 # Excel-Project---Sales-Analysis
-SQL Project - Online Bookstore
+Excel Project - Sales Analysis
